@@ -1,0 +1,2 @@
+# ProgrammingC
+Studying C language!
